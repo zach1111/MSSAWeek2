@@ -14,7 +14,7 @@ public abstract class GymEquipment
     public string EquipmentName { get; set; }
     public double Weight { get; set; }
     public string Manufacturer { get; set; }
-    public bool isFunctional { get; set; }
+    public bool IsFunctional { get; set; }
 }
 
 public class Machine : GymEquipment
@@ -37,11 +37,11 @@ public class Barbell : FreeWeight
 
 public class Dumbbell : FreeWeight
 {
-    public bool isAdjustable { get; set; }
+    public bool IsAdjustable { get; set; }
 }
 
 public class WeightPlate : FreeWeight
 {
-    public bool isBumperPlate { get; set; }
+    public bool IsBumperPlate { get; set; }
 }
 
