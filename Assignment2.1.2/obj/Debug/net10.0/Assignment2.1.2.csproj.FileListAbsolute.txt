@@ -1,0 +1,14 @@
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAWeek2\Assignment2.1.2\obj\Debug\net10.0\Assignment2.1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAWeek2\Assignment2.1.2\obj\Debug\net10.0\Assignment2.1.2.AssemblyInfoInputs.cache
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAWeek2\Assignment2.1.2\obj\Debug\net10.0\Assignment2.1.2.AssemblyInfo.cs
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAWeek2\Assignment2.1.2\obj\Debug\net10.0\Assignment2.1.2.csproj.CoreCompileInputs.cache
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAWeek2\Assignment2.1.2\bin\Debug\net10.0\Assignment2.1.2.exe
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAWeek2\Assignment2.1.2\bin\Debug\net10.0\Assignment2.1.2.deps.json
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAWeek2\Assignment2.1.2\bin\Debug\net10.0\Assignment2.1.2.runtimeconfig.json
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAWeek2\Assignment2.1.2\bin\Debug\net10.0\Assignment2.1.2.dll
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAWeek2\Assignment2.1.2\bin\Debug\net10.0\Assignment2.1.2.pdb
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAWeek2\Assignment2.1.2\obj\Debug\net10.0\Assignment2.1.2.dll
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAWeek2\Assignment2.1.2\obj\Debug\net10.0\refint\Assignment2.1.2.dll
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAWeek2\Assignment2.1.2\obj\Debug\net10.0\Assignment2.1.2.pdb
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAWeek2\Assignment2.1.2\obj\Debug\net10.0\Assignment2.1.2.genruntimeconfig.cache
+C:\Users\zmakk\OneDrive\Desktop\MSSA\MSSA Assignments\MSSAWeek2\Assignment2.1.2\obj\Debug\net10.0\ref\Assignment2.1.2.dll
