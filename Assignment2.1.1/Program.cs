@@ -12,13 +12,9 @@ public abstract class GymEquipment
 {
     public int AssetID { get; set; }
     public string EquipmentName { get; set; }
-
     public double Weight { get; set; }
-
     public string Manufacturer { get; set; }
-
     public bool isFunctional { get; set; }
-
 }
 
 public class Machine : GymEquipment
@@ -26,7 +22,6 @@ public class Machine : GymEquipment
     public double SetWeightLow { get; set; }
     public double SetWeightHigh { get; set; }
     public string MuscleGroup { get; set; }
-
 }
 
 
@@ -37,8 +32,7 @@ public abstract class FreeWeight : GymEquipment
 
 public class Barbell : FreeWeight
 {
-    public double length { get; set; }
-    
+    public double Length { get; set; }
 }
 
 public class Dumbbell : FreeWeight
