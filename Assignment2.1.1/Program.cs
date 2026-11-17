@@ -1,9 +1,19 @@
 ﻿/*
 2.1.1 Design a class hierarchy of your choice. (Need only class files )
--2-3 levels, don't use animals
-class GymEquipment
-class Machine
-class FreeWeight
+*/
+
+/*
+Hierarchy
+
+GymEquipment
+
+GymEquipment -> Machine
+
+GymEquipment -> FreeWeight
+GymEquipment -> FreeWeight -> Barbell
+GymEquipment -> FreeWeight -> Dumbbell
+GymEquipment -> FreeWeight -> WeightPlate
+
 */
 
 Console.WriteLine(); //to validate program
@@ -33,6 +43,7 @@ public abstract class FreeWeight : GymEquipment
 public class Barbell : FreeWeight
 {
     public double Length { get; set; }
+    public bool IsMens { get; set; }
 }
 
 public class Dumbbell : FreeWeight
