@@ -16,15 +16,14 @@ double.TryParse(Console.ReadLine(), out xCoord);
 Console.Write("Enter the value for the Y coordinate: ");
 double.TryParse(Console.ReadLine(), out yCoord);
 
-Console.WriteLine($"The coordinate point ({xCoord},{yCoord}) lies in the {determineCoord(xCoord, yCoord)} quadrant.");
+Console.WriteLine($"The coordinate point ({xCoord},{yCoord}) lies in the {determineQuad(xCoord, yCoord)} quadrant.");
 
 
 
 
 
 
-string determineCoord(double XCoord, double YCoord)
-
+string determineQuad(double XCoord, double YCoord)
 {
     switch (XCoord, YCoord)
     {
