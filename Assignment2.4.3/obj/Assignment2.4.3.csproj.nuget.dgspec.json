@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\zmakk\\OneDrive\\Desktop\\MSSA\\MSSA Assignments\\MSSAWeek2\\Assignment2.4.3\\Assignment2.4.3.csproj": {}
+    "C:\\Users\\zmakk\\OneDrive\\Desktop\\MSSA\\MSSA Assignments\\MSSAWeek2\\Assignment2.4.3\\Assignment2.4.3.csproj": {}
   },
   "projects": {
-    "c:\\Users\\zmakk\\OneDrive\\Desktop\\MSSA\\MSSA Assignments\\MSSAWeek2\\Assignment2.4.3\\Assignment2.4.3.csproj": {
+    "C:\\Users\\zmakk\\OneDrive\\Desktop\\MSSA\\MSSA Assignments\\MSSAWeek2\\Assignment2.4.3\\Assignment2.4.3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\zmakk\\OneDrive\\Desktop\\MSSA\\MSSA Assignments\\MSSAWeek2\\Assignment2.4.3\\Assignment2.4.3.csproj",
+        "projectUniqueName": "C:\\Users\\zmakk\\OneDrive\\Desktop\\MSSA\\MSSA Assignments\\MSSAWeek2\\Assignment2.4.3\\Assignment2.4.3.csproj",
         "projectName": "Assignment2.4.3",
-        "projectPath": "c:\\Users\\zmakk\\OneDrive\\Desktop\\MSSA\\MSSA Assignments\\MSSAWeek2\\Assignment2.4.3\\Assignment2.4.3.csproj",
+        "projectPath": "C:\\Users\\zmakk\\OneDrive\\Desktop\\MSSA\\MSSA Assignments\\MSSAWeek2\\Assignment2.4.3\\Assignment2.4.3.csproj",
         "packagesPath": "C:\\Users\\zmakk\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\zmakk\\OneDrive\\Desktop\\MSSA\\MSSA Assignments\\MSSAWeek2\\Assignment2.4.3\\obj\\",
+        "outputPath": "C:\\Users\\zmakk\\OneDrive\\Desktop\\MSSA\\MSSA Assignments\\MSSAWeek2\\Assignment2.4.3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
